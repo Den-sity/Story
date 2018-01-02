@@ -3,3 +3,6 @@
 git status
 git add filename
 git commit -m "Comment"
+
+git remote add origin https://github.com/Den-sity/Story.git
+git push -u origin master
